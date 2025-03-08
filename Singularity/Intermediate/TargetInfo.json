@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Singularity",
+			"Path": "..\\Source\\Singularity.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "SingularityEditor",
+			"Path": "..\\Source\\SingularityEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
